@@ -5,4 +5,20 @@
 .homeContainer{
     /* background-color: lightblue; */
     flex: 6;
+    
 }
+.widgets{
+    display: flex;
+    padding: 20px;
+    gap:20px;    
+}
+.widgets,
+.charts {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+}
+
+.charts {
+    padding: 5px 20px;
+  }
